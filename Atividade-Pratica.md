@@ -501,4 +501,4 @@ git push
 - A primeira etapa rodará os testes (`gradle test`).
 - A segunda etapa fará um **deploy simulado** com uma mensagem no terminal.
 
-
+Lembre-se de subir todos os arquivos das atividades 01 e 02 no repositório criado pelo Classroom para avaliação.
